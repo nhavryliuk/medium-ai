@@ -23,7 +23,7 @@ To edit text, select it and enter the desired instruction in the toolbar's text 
 1. Clone the repository.
 
 ```shell
-git clone https://github.com/wingedrasengan927/medium-ai
+git clone https://github.com/nhavryliuk/medium-ai.git
 ```
 
 2. Access the project directory.
